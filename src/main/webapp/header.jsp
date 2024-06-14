@@ -36,7 +36,7 @@
 	<div>
 		<header id="headerL">
 			<img src="img/logo1.jpeg" id="logo">
-			<div id="textLogo">Migliori giochi a prezzi stracciati!</div>
+			<div id="textLogo">Migliori giochi a prezzi stracciati ciao!</div>
 			<span id="ricerca">
 				<form action="Search" method="get">
 				<input type="search" id="inputSearch" name="ricerca">
